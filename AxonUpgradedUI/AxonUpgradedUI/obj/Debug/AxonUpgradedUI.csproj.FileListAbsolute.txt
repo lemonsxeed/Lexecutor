@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\bin\Debug\AxonUpgradedUI.exe.config
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\bin\Debug\AxonUpgradedUI.exe
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\bin\Debug\AxonUpgradedUI.pdb
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\obj\Debug\AxonUpgradedUI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\obj\Debug\AxonUpgradedUI.AxonUI.resources
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\obj\Debug\AxonUpgradedUI.Properties.Resources.resources
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\obj\Debug\AxonUpgradedUI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\obj\Debug\AxonUpgradedUI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\obj\Debug\AxonUpgradedUI.exe
+C:\Users\user\source\repos\AxonUpgradedUI\AxonUpgradedUI\obj\Debug\AxonUpgradedUI.pdb
