@@ -1,4 +1,3 @@
-# Axon-Simple-UI-Remake
-
-This is a remake (please credit if using).
+# lemon
+made my speeskerkawaii H
 Imagine releasing axonsploit :mindblowing:
